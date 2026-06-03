@@ -3,7 +3,7 @@
 This repository contains the official MATLAB implementation of the paper: **"Dual-aspect synergistic outlier detection with structural deviation and attribute rarity"** (Published in *Pattern Recognition*, 2026).
 
 ## Overview
-DASOD is a novel unsupervised outlier detection framework based on Formal Concept Analysis (FCA) and Granular Computing (GrC).It overcomes the limitations of traditional FCA-based methods by concurrently measuring conceptual structural deviation (from both object/extent and attribute/intent perspectives) and statistical attribute rarity (computed via self-information). The method utilizes a noise-robust core concept extraction strategy to emphasize dominant data patterns, thereby significantly reducing computational complexity while providing strong interpretability.
+DASOD is a novel unsupervised outlier detection framework based on Formal Concept Analysis (FCA) and Granular Computing (GrC).It overcomes the limitations of traditional FCA-based methods by concurrently measuring conceptual structural deviation and statistical attribute rarity. The method utilizes a noise-robust core concept extraction strategy to emphasize dominant data patterns, thereby significantly reducing computational complexity while providing strong interpretability.
 
 ## Requirements
 * MATLAB (Tested on standard versions, no special toolboxes required)
