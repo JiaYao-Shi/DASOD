@@ -35,3 +35,16 @@ Based on the algorithm described in the paper, the codebase is structured as fol
 3. Run the `demo.m` script:
    ```matlab
    demo
+4. The script will load a dataset, execute the DASOD algorithm, and output the detection performance (e.g., AUC score).
+
+## Citation
+If you find this code useful for your research, please cite our paper:
+@article{li2026dual,
+  title={Dual-aspect synergistic outlier detection with structural deviation and attribute rarity},
+  author={Li, Jinhai and Shi, Jiayao and Li, Shen and Chen, Yu},
+  journal={Pattern Recognition},
+  volume={180},
+  pages={114084},
+  year={2026},
+  publisher={Elsevier}
+}
