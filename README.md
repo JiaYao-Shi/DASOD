@@ -32,9 +32,7 @@ Based on the algorithm described in the paper, the codebase is structured as fol
 ## Usage
 1. Clone this repository to your local machine.
 2. Open MATLAB and navigate to the repository folder.
-3. Run the `demo.m` script:
-   ```matlab
-   demo
+3. Run the `demo.m` script.
 4. The script will load a dataset, execute the DASOD algorithm, and output the detection performance (e.g., AUC score).
 
 ## Citation
