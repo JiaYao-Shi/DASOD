@@ -6,8 +6,8 @@ This repository contains the official MATLAB implementation of the paper: **"Dua
 DASOD is a novel unsupervised outlier detection framework based on Formal Concept Analysis (FCA) and Granular Computing (GrC).It overcomes the limitations of traditional FCA-based methods by concurrently measuring conceptual structural deviation and statistical attribute rarity. The method utilizes a noise-robust core concept extraction strategy to emphasize dominant data patterns, thereby significantly reducing computational complexity while providing strong interpretability.
 
 ## Requirements
-* MATLAB (Tested on standard versions, no special toolboxes required)
-
+* MATLABR2024b
+  
 ## Repository Structure
 
 Based on the algorithm described in the paper, the codebase is structured as follows:
