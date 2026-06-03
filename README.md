@@ -17,7 +17,7 @@ Based on the algorithm described in the paper, the codebase is structured as fol
 * **`demo.m`**: The main entry script to run the DASOD algorithm on a sample dataset and evaluate its performance.
 * **`DASOD.m`**: The core function integrating the dual-aspect synergistic outlier detection framework.
 * **Data Preprocessing & Granular Concepts:**
-    * **`equal_width.m`**: Performs equal-width discretization for numerical features.
+    * **`equal_width.m`**: Performs equal-width discretization for features.
     * **`create_formal_context.m`**: Transforms the dataset into a formal context.
     * **`f_1.m`, `f_2.m`, `f_g.m`**: Functions for generating object and attribute granular concepts.
     * **`extract_core_concepts.m`**: Extracts support-based core concepts to filter noise and reduce dimensionality.
